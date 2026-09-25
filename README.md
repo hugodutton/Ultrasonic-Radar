@@ -3,10 +3,10 @@
 A working plan-position-indicator (PPI) radar built from an Arduino UNO R3, an HC-SR04 ultrasonic sensor and an SG90 servo. The servo sweeps the sensor through a 150° arc, the Arduino measures the time-of-flight to the nearest object at each bearing, and a Processing sketch plots the results as a live radar scope with range rings, a rotating sweep line and fading contacts.
 
 <!-- Replace with your own screenshot or GIF: press S in the Processing sketch -->
-![Radar Front Picture](/Users/hugodutton/Radar_Project/RadarFront.pdf)
+![Radar Front Picture](Users/hugodutton/Radar_Project/RadarFront.pdf)
 
 <p align="center" width="100%">
-    <img width="33%" src="/Users/hugodutton/Radar_Project/RadarFront.pdf">
+    <img width="33%" src="Users/hugodutton/Radar_Project/RadarFront.pdf">
     <img width="33%" src="Figures/t025Comparison.png">
     <img width="33%" src="Figures/t050Comparison.png">
 </p>
