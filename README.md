@@ -7,6 +7,8 @@ A working plan-position-indicator (PPI) radar built from an Arduino UNO R3, an H
 
 <img width="595" height="842" alt="Image" src="https://github.com/user-attachments/assets/4017b128-26ba-49a4-8488-ebc17c189de8" />
 
+<img width="595" height="842" alt="Image" src="https://github.com/user-attachments/assets/48029230-011b-4170-87a9-2a3243029734" />
+
 <p align="center" width="100%">
     <img width="33%" src="Users/hugodutton/Radar_Project/RadarFront.pdf">
     <img width="33%" src="Figures/t025Comparison.png">
